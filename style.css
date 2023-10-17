@@ -1,26 +1,32 @@
-
 body {
-    background-color: beige;
-    text-align: center;
-     
+  background-color: beige;
+  text-align: center;
 }
 
 div {
-    margin: auto;
-    width: auto;
+  margin: auto;
+  width: auto;
 }
 
 ol {
-    text-align: left;    
+  text-align: left;
 }
 
 img {
-    border-radius: 5%;
-    opacity: 80%;
-
+  border-radius: 5%;
+  opacity: 80%;
 }
 
 .center {
-    text-align: center;
-    color: brown;
+  text-align: center;
+  color: brown;
+}
+li {
+  font-size: 30px;
+  color: brown;
+}
+h4 {
+  font-size: 35px;
+  color: brown;
+  text-decoration: underline;
 }
